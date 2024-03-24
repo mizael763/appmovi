@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.Views.Page_principal"
+             Title="EduAcademia">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout HorizontalOptions="Center" Margin="0,10">
+                <Label Text="¡Bienvenido Papus!" FontSize="25" TextColor="Black"/>
+            </StackLayout>
+            <StackLayout>
+                <Image Source="cole.png" HeightRequest="200"/>
+            </StackLayout>
+            <StackLayout Margin="0,10">
+                <Button x:Name="Empezar" Clicked="Empezar_clicked" Text="Empezar" HorizontalOptions="Center" />
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pp9OJKa3FkA7is2mcCgX9EDpyrDl90dRBjwYKGCXfkeGaa0Hzknju0uYKwpN2u22NThncQUCMtGa4AL6pqx5KA==",
+  "success": true,
+  "projectFilePath": "C:\\apps\\App3\\App3\\App3.iOS\\App3.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mizael\\.nuget\\packages\\firebaseauthentication.net\\3.7.2\\firebaseauthentication.net.3.7.2.nupkg.sha512",
+    "C:\\Users\\Mizael\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Mizael\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Mizael\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Mizael\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

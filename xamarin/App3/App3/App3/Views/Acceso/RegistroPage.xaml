@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.Views.Acceso.RegistroPage"
+             Title="Registro">
+    <Frame>
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <StackLayout Margin="50">
+                <Entry x:Name="nombreUsuarioEntry" Placeholder="Nombre de usuario" />
+                <Entry x:Name="correoEntry" Placeholder="Correo electrónico" Keyboard="Email" />
+                <Entry x:Name="contraseñaEntry" Placeholder="Contraseña" IsPassword="True" />
+                <Button Text="Registrar" Clicked="RegistrarClicked" />
+            </StackLayout>
+        </StackLayout>
+    </Frame>
+</ContentPage>

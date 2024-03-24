@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\apps\\App3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBD3D1E-9A4C-45F5-88E2-0C65AB6C0F00}|App3\\App3\\App3.csproj|c:\\apps\\app3\\app3\\app3\\views\\acceso\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{5FBD3D1E-9A4C-45F5-88E2-0C65AB6C0F00}|App3\\App3\\App3.csproj|solutionrelative:app3\\app3\\views\\acceso\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBD3D1E-9A4C-45F5-88E2-0C65AB6C0F00}|App3\\App3\\App3.csproj|c:\\apps\\app3\\app3\\app3\\views\\page_principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBD3D1E-9A4C-45F5-88E2-0C65AB6C0F00}|App3\\App3\\App3.csproj|solutionrelative:app3\\app3\\views\\page_principal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\apps\\App3\\App3\\App3\\Views\\Acceso\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "App3\\App3\\Views\\Acceso\\LoginPage.xaml",
+              "ToolTip": "C:\\apps\\App3\\App3\\App3\\Views\\Acceso\\LoginPage.xaml",
+              "RelativeToolTip": "App3\\App3\\Views\\Acceso\\LoginPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T00:01:23.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page_principal.xaml.cs",
+              "DocumentMoniker": "C:\\apps\\App3\\App3\\App3\\Views\\Page_principal.xaml.cs",
+              "RelativeDocumentMoniker": "App3\\App3\\Views\\Page_principal.xaml.cs",
+              "ToolTip": "C:\\apps\\App3\\App3\\App3\\Views\\Page_principal.xaml.cs",
+              "RelativeToolTip": "App3\\App3\\Views\\Page_principal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:13:38.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
